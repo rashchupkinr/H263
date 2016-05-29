@@ -1,1 +1,1 @@
-# H263
+# H.263 video compression codec
