@@ -1,3 +1,4 @@
+// Based on Telenor codec source
 #include "codec.h"
 #include "cif.h"
 #include "misc.h"
